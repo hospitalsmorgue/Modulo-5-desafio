@@ -1,0 +1,75 @@
+1
+
+Ana Silva
+ana.silva@email.com
+32/13/2000
+15/01/2000
+1
+Bruno Costa
+email-invalido
+bruno.costa@email.com
+ontem
+20/06/1995
+1
+Carla Dias
+carla.dias@email.com
+01/03/2010
+1
+Ana Outra
+ana.silva@email.com
+4
+Java para Iniciantes
+Programação básica com Java.
+abc
+40
+4
+Inglês Instrumental
+Curso básico de inglês.
+80
+4
+Música Popular
+Violão e canto.
+-5
+60
+2
+3
+ANA.SILVA@email.com
+3
+sem-arroba
+naoexiste@email.com
+6
+java
+6
+ing
+6
+xyz
+6
+
+Java
+5
+7
+1
+1
+
+7
+2
+1
+01/01/2030
+01/09/2026
+7
+3
+2
+10/11/2026
+7
+1
+1
+7
+99
+0
+7
+abc
+0
+8
+9
+xyz
+0
